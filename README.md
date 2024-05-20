@@ -23,9 +23,9 @@ To run the program, simply run the following command in the terminal:
 
 Then enter a word and select a voice to generate a story.
 
-## Sponsers
+## Sponsors
 
-✨ Learn to build projects like this one (early bird discount): [BuildFast Course ](https://www.buildfastcourse.com/)
+✨ Find profitable ideas faster: [Exploding Insights](https://explodinginsights.com/)
 
 ## License
 This project is licensed under the MIT License - see the LICENSE file for details.
